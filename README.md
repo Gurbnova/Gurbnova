@@ -4,10 +4,11 @@
     </h1>
 </div>
 
-<!--
-**Gurbnova/Gurbnova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div align="center">
+    <p>
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25rNnNlNHp3Yml2ZnV6MXBvc284ZDBjMzZzajYzc3U1eGU4cnNlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" alt="" />
+    </p>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
