@@ -39,6 +39,10 @@
 ![Static Badge](https://img.shields.io/badge/SPSS-blue?style=for-the-badge&logo=SPSS&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/latex-green?style=for-the-badge&logo=latex&logoColor=white)
+
+
 
 
 
