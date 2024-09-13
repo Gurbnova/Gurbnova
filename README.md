@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=100&color=000000&width=435&lines=Hey...;I'm+Leyla+Gurbanova...;Welcome+to+My+GitHub+Account+%F0%9F%98%84!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2000&pause=100&color=000000&center=true&width=435&lines=Hey...;I'm+Leyla+Gurbanova...;Welcome+to+My+GitHub+Account+%F0%9F%98%84!)](https://git.io/typing-svg)
+
 <div align="center">
     <p>
         <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25rNnNlNHp3Yml2ZnV6MXBvc284ZDBjMzZzajYzc3U1eGU4cnNlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" alt="" />
