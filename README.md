@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-    <h2>My Skills 👩‍💻</h2>
+    <h2>👩‍💻 My Skills</h2>
     <p></p>
 </div>
 
