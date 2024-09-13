@@ -28,7 +28,7 @@
 ![Static Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/NumPy-blue?style=flat-square&logo=numpy&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Pandas-purple?style=flat-square&logo=Pandas&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Pandas-purple?style=flat-square&logo=Pandas&logoColor=white&logoSize=amg)
 
 
 
