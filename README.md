@@ -35,9 +35,8 @@
   }
 </style>
 
-<img src="https://img.shields.io/badge/SPSS-v27-blue?logo=IBM" class="badge">
+<img src="https://img.shields.io/badge/Pandas-purple?style=flat-square&logo=Pandas&logoColor=white&logoSize=auto" class="badge">
 
-![Static Badge](https://img.shields.io/badge/Pandas-purple?style=flat-square&logo=Pandas&logoColor=white&logoSize=auto)
 
 
 
