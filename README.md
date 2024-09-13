@@ -16,7 +16,7 @@
     <p>To connect with me, you can find my profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology!</p>
 </div>
 <div align="center">
-    <a href="www.linkedin.com/in/leyla-gurbanova-3a52112b9/">
+    <a href="www.linkedin.com/in/leyla-gurbanova-3a52112b9">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
