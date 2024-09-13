@@ -28,6 +28,7 @@
 </div>
 
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/jupyter-red?style=for-the-badgee&logo=jupyter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -38,6 +39,7 @@
 ![Static Badge](https://img.shields.io/badge/SPSS-blue?style=for-the-badge&logo=SPSS&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 
