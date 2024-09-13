@@ -18,11 +18,10 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/leyla-gurbanova-3a52112b9/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/gurbanov%40ualberta.ca-emerald?style=for-the-badge&logoColor=white"
+
     </a>
 </div>
-![Static Badge](https://img.shields.io/badge/gurbanov%40ualberta.ca-emerald?style=for-the-badge&logoColor=white)
-
-
 
 <div align="center">
     <h2>My Skills 👩‍💻</h2>
