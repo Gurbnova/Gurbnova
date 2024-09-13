@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-    <h2>🚀Connect with Me</h2>
+    <h2>🌐 Connect with Me</h2>
     <p>To connect with me, you can find my profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology!</p>
 </div>
 <div align="center">
