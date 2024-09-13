@@ -40,6 +40,8 @@
 ![Static Badge](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurbnova&layout=donut-vertical)](https://github.com/Gurbnova/github-readme-stats)
 
 
