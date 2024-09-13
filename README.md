@@ -31,7 +31,7 @@
 ![Static Badge](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SPSS-blue?style=for-the-badge&logo=SPSS&logoColor=white)
-![Static Badge]https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 
