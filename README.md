@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2000&pause=100&color=000000&center=true&width=435&lines=Hey...;I'm+Leyla+Gurbanova...;Welcome+to+My+GitHub+Account+%F0%9F%98%84!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=100&color=000000&center=true&vCenter=true&width=435&lines=Hey...;I'm+Leyla+Gurbanova...;Welcome+to+My+GitHub+Account+%F0%9F%98%84!)](https://git.io/typing-svg)
 
 <div align="center">
     <p>
@@ -13,13 +13,14 @@
 
 <div align="center">
     <h2>🚀Connect with Me</h2>
-    <p>To connect with me, you can find my profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology.</p>
+    <p>To connect with me, you can find my profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology!</p>
 </div>
 <div align="center">
     <a href="www.linkedin.com/in/leyla-gurbanova-3a52112b9/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
