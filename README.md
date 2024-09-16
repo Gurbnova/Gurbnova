@@ -41,6 +41,8 @@
 ![Static Badge](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/latex-green?style=for-the-badge&logo=latex&logoColor=white)
+![Static Badge](https://img.shields.io/badge/postman-red?style=for-the-badge&logo=postman)
+
 
 
 
