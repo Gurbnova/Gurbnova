@@ -50,6 +50,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurbnova&layout=donut-vertical)](https://github.com/Gurbnova/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurbnova&layout=donut-vertical&theme=tokyonight&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.sh/github.com/Gurbnova/hits.svg?style=flat-square&label=visitors)](https://hits.sh/github.com/Gurbnova/hits/)
