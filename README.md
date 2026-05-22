@@ -42,6 +42,16 @@
 ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/latex-green?style=for-the-badge&logo=latex&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/postman-red?style=for-the-badge&logo=postman)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Espresso](https://img.shields.io/badge/Espresso-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge)
+![Optuna](https://img.shields.io/badge/Optuna-315C9C?style=for-the-badge)
+![Stable--Baselines3](https://img.shields.io/badge/Stable--Baselines3-5A0FC8?style=for-the-badge)
 
 
 
