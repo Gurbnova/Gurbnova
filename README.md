@@ -8,7 +8,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I am currently a second-year Bachelor of Science student majoring in Computer Science at the University of Alberta.</p>
+    <p>I am currently a third-year Bachelor of Science student majoring in Computer Science at the University of Alberta.</p>
 </div>
 
 <div align="center">
